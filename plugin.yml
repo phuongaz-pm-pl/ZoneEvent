@@ -1,0 +1,5 @@
+name: ZoneEvent
+version: 1.0.0
+src-namespace-prefix: phuongaz\zoneevent
+main: phuongaz\zoneevent\ZoneEvent
+api: 5.0.0
